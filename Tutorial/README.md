@@ -49,6 +49,6 @@ cd cd nx-custom
 
 ## Execute the applications
 
-nx serve admin-app
-nx serve web-app
-nx serve server-app
+    nx serve admin-app
+    nx serve web-app
+    nx serve server-app
